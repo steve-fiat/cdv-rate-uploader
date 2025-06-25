@@ -1,0 +1,9 @@
+object_id,apy,bankname,bankdetailsurl,banklogo,terminmonths,minbalance,certno,ncuano
+sample_id_1,4.0%,Bank Name 1,https://example.com/bank1,https://example.com/logo1.png,6,1000,12345,
+sample_id_2,4.1%,Bank Name 2,https://example.com/bank2,https://example.com/logo2.png,7,2000,,67890
+sample_id_3,4.2%,Bank Name 3,https://example.com/bank3,https://example.com/logo3.png,8,3000,12345,
+sample_id_4,4.3%,Bank Name 4,https://example.com/bank4,https://example.com/logo4.png,9,4000,,67890
+sample_id_5,4.4%,Bank Name 5,https://example.com/bank5,https://example.com/logo5.png,10,5000,12345,
+sample_id_6,4.5%,Bank Name 6,https://example.com/bank6,https://example.com/logo6.png,11,6000,,67890
+sample_id_7,4.6%,Bank Name 7,https://example.com/bank7,https://example.com/logo7.png,12,7000,12345,
+sample_id_8,4.7%,Bank Name 8,https://example.com/bank8,https://example.com/logo8.png,13,8000,,67890
